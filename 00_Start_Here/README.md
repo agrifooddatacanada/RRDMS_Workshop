@@ -1,24 +1,10 @@
----
-title: "How to get started on this Workshop"
-subtitle: "GitHub and Posit Cloud"
-author: By  Busayo Kodaolu
-date: 2023-02-17
-output: 
-  html_document:
-    toc: yes
-    toc_depth: 4
-    number_sections: yes
-    toc_float: yes
----
+# How to get started on this Workshop
+## GitHub and Posit Cloud
+By  Busayo Kodaolu
 
-<style type="text/css">
-  body{
-    font-size: 12pt;
-  }
-</style>
+2023-02-17
 
 # Navigating Github
-
 
 Okay, I know it sounds too "techy". To keep it simple, developers use GitHub to share codes, collaborate and keep track of changes to their codes. In this workshop, we are using it as a repository to share the workshop materials. Click [here](https://github.com/agrifooddatacanada/RRDMS_Workshop) to access the materials and you should see a screen like the one below:   
 <br/>
