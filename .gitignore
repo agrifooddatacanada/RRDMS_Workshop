@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # MacOS files
 .DS_Store
+
+# Markdown files
+README.html
