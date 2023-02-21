@@ -31,7 +31,7 @@ Posit Cloud, formerly called RStudio cloud, is the RStudio IDE hosted in the clo
 
 <br/>
 
-![**Posit Cloud IDE looks exactly like your desktop RStudio IDE but directly from your browser**](src/Start coding.PNG)
+![**Posit Cloud IDE looks exactly like your desktop RStudio IDE but directly from your browser**](src/posit8.PNG)
 
 
 ## How do you set-up Posit Cloud?
