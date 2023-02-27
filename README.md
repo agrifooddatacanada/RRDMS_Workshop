@@ -16,9 +16,9 @@ Time: 9 a.m. - 4 p.m.
 
 ### Data governance and metadata: what do I have to offer and who can use it?
 
--   Strategies for effective metadata creation, including available and tools in development
+-   Strategies for effective [metadata creation](Day_1/D1S2_Effective_Metadata_Creation/D1S2_Effective_Metadata_Creation.pdf), including available and tools in development
 
--   Data governance -- who can access my data and data collected at the Research Centres?
+-   [Data governance](Day_1/D1S3_Data_Governance/D1S3_Data_Governance.pdf) -- who can access my data and data collected at the Research Centres? (Including Data governace [Exercise](Day_1/D1S3_Data_Governance/D1S4_Data_Governance_Exercise.pdf))
 
 ### Day 2
 
