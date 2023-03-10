@@ -24,9 +24,9 @@ Time: 9 a.m. - 4 p.m.
 
 ### Research data reusability mindset: from collection to storage
 
--   Review of the FAIR data principles.
+-   Review of the [FAIR data principles](Day_2/D2_All_Sessions.pdf).
 
--   The importance of data reusability and how we can keep reusability in mind in every step of a research project -- developing a reusability mindset. Strategies to record data that meet domain-relevant community standards and are associated with detailed provenance.
+-   The importance of [data reusability](Day_2/D2_All_Sessions.pdf) and how we can keep reusability in mind in every step of a research project -- developing a reusability mindset. Strategies to record data that meet domain-relevant community standards and are associated with detailed provenance.
 
 -   A tour of the Ontario Dairy Research Centre will demonstrate the dos and don'ts of the various steps of research from data collection to storage with practical examples. \*
 
@@ -36,17 +36,17 @@ Time: 9 a.m. - 4 p.m.
 
 ### Basic R programming skills: tidying your data
 
--   An introduction to the R programming language and the RStudio IDE
+-   [An introduction to the R programming language and the RStudio IDE](Day_3/D3S1_Posit_R_RStudio/D3S1_Posit_R_RStudio_Intro.pdf)
 
--   Data manipulation in R with the aim of making a reusable "tidy" format ready for visualization and modelling by other researchers.
+-   [Data manipulation](Day_3/D3S2_Tidyverse_1/D3S2_Tidyverse_1.pdf) in R with the aim of making a reusable "[tidy](Day_3/D3S3_Tidyverse_2/D3S3_Tidyverse_2.pdf)" format ready for visualization and modelling by other researchers.
 
 ### Day 4
 
 ### Advanced research computing skills: data explorer dashboard
 
--   Shiny framework for creating web applications using R code.
+-   [Shiny framework](Day_3/D3S4_Intro_to_Shiny/D3S4_Intro_to_Shiny.pdf) for creating web applications using R code.
 
--   How to build a Shiny Apps with a dashboard layout to interactively explore your own research data.
+-   How to build a Shiny Apps with a [dashboard layout](Day_4/D4S2_Shiny_Layouts/D4S2_Shiny_Layout.pdf) to [interactively explore your own research data](Day_4/D4S1_Shiny_Reactivity/D4S1_Shiny_Reactivity.pdf).
 
 -   How to publish your Shiny Apps for free on the internet.
 
