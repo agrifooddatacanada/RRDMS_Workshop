@@ -19,7 +19,7 @@ Use [this guide](00_Start_Here/README.md) to learn how to navigate GitHub and Po
 #### What do I have to offer and who can use it?
 
 - Strategies for effective [metadata creation](Day_1/D1S2_Effective_Metadata_Creation/D1S2_Effective_Metadata_Creation.pdf), including available and tools in development
-- [Data governance](Day_1/D1S3_Data_Governance/D1S3_Data_Governance.pdf): who can access my data and data collected at the Research Centres? (Including Data governance [Exercise](Day_1/D1S3_Data_Governance/D1S4_Data_Governance_Exercise.pdf))
+- [Data governance](Day_1/D1S3_Data_Governance/D1S3_Data_Governance.pdf): who can access my data and data collected at the Research Centres? (Including Data governance [Exercise](Day_1/D1S4_Data_Governance/D1S4_Data_Governance_Exercise.pdf))
 
 ### Day 2: Research data reusability mindset
 #### From collection to storage
