@@ -10,6 +10,7 @@ This workshop is available online and in-person with limited spaces available fo
 
 - **Dates**: February 21 - 24, 2023
 - **Time**: 9 a.m. - 4 p.m.
+- **Location**: Ontario Dairy Reserach Centre ([6185 2 Line E, Township Of Centre Wellington, ON N0B 1B0](https://goo.gl/maps/RFwugLfUyDkirySe6))
 
 ### Getting started
 Use [this guide](00_Start_Here/README.md) to learn how to navigate GitHub and Posit Cloud, which are needed for this workshop.
@@ -55,7 +56,7 @@ Learn more about the ODRC at https://uoguel.ph/sopr9.
 
 - [Shiny framework](Day_3/D3S4_Intro_to_Shiny/D3S4_Intro_to_Shiny.pdf) for creating web applications using R code.
 - How to build a Shiny Apps with a [dashboard layout](Day_4/D4S2_Shiny_Layouts/D4S2_Shiny_Layout.pdf) to [interactively explore your own research data](Day_4/D4S1_Shiny_Reactivity/D4S1_Shiny_Reactivity.pdf).
-- How to publish your Shiny Apps for free on the internet.
+- How to publish your Shiny Apps for free on the internet through [Shinyapps.io](https://shinyapps.io).
 
 **For in-person participants**: Please bring your own laptop for the hands-on R programming training on days 3 and 4, as one will not be provided for you. Breakfast will be available daily at 8:30 a.m. and lunch will be provided.
 
