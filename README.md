@@ -11,7 +11,7 @@ This workshop is available online and in-person with limited spaces available fo
 - **Dates**: February 21 - 24, 2023
 - **Time**: 9 a.m. - 4 p.m.
 
-### Day 0: Getting started
+### Getting started
 Use [this guide](00_Start_Here/README.md) to learn how to navigate GitHub and Posit Cloud, which are needed for this workshop.
 
 ### Day 1: Data governance and metadata
@@ -29,9 +29,9 @@ Use [this guide](00_Start_Here/README.md) to learn how to navigate GitHub and Po
 
 #### Tour at the Ontario Dairy Research Centre
 
-The Ontario Dairy Research Centre in Elora, Ontario, is leading dairy innovation through education and collaboration. It is a state-of-the-art 175,000 square foot facility for discovery, learning and outreach. This centre is a partnership between the Agricultural Research Institute of Ontario, OMAFRA, the University of Guelph and the Ontario dairy industry.
+The Ontario Dairy Research Centre (ODRC) in Elora, Ontario, is leading dairy innovation through education and collaboration. It is a state-of-the-art 175,000 square foot facility for discovery, learning and outreach. This centre is a partnership between the Agricultural Research Institute of Ontario, OMAFRA, the University of Guelph and the Ontario dairy industry.
 
-Learn more at https://uoguel.ph/sopr9.
+Learn more about the ODRC at https://uoguel.ph/sopr9.
 
 **Tour will not be available synchronously for online participants.** Instead, 360º Virtual Tours are available at the Ontario Agri-Food and Innovation Alliance YouTube channel: @AgInnovationON. Please find the direct links below:
 
