@@ -25,7 +25,7 @@ Use [this guide](00_Start_Here/README.md) to learn how to navigate GitHub and Po
 
 - Review of the [FAIR data principles](Day_2/D2_All_Sessions.pdf).
 
-- The importance of [data reusability](Day_2/D2_All_Sessions.pdf) and how we can keep reusability in mind in every step of a research project -- developing a reusability mindset. Strategies to record data that meet domain-relevant community standards and are associated with detailed provenance.
+- The importance of [data reusability](Day_2/D2_All_Sessions.pdf) and how we can keep reusability in mind in every step of a research project: developing a reusability mindset. Strategies to record data that meet domain-relevant community standards and are associated with detailed provenance.
 
 #### Tour at the Ontario Dairy Research Centre
 
