@@ -42,7 +42,7 @@ filter(env_data, barn == "lactating")
 filter(env_data, location == "inside")
 ### Above 30C ----
 filter(env_data, temp > 30)
-### Between 0 and 10C inside the replacement barn ----
+### Between 0 and 10C inside the Special Needs barn ----
 filter(env_data, temp >= 0, temp <= 10, location == "inside",
        barn == "sp_needs")
 ### From June 3, 2022, or June 4, 2022 ----
