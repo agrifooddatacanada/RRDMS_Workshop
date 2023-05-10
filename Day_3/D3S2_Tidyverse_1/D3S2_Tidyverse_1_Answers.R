@@ -113,28 +113,31 @@ env_data %>%
 
 ## Your turn ----
 env_data %>% 
+  na_omit() %>%
   filter(barn == "sp_needs",
          location == "inside") %>%
-  summarize(min_temp = min(temp, na.rm = TRUE),
-            avg_temp = mean(temp, na.rm = TRUE),
-            max_temp = max(temp, na.rm = TRUE),
-            min_rh = min(rh, na.rm = TRUE),
-            avg_rh = mean(rh, na.rm = TRUE),
-            max_rh = max(rh, na.rm = TRUE))
+  summarize(min_temp = min(temp),
+            avg_temp = mean(temp),
+            max_temp = max(temp),
+            min_rh = min(rh),
+            avg_rh = mean(rh),
+            max_rh = max(rh))
 
 # group_by ----
 ## Example ----
 # Without groups
 env_data %>% 
-  summarize(min_temp = min(temp, na.rm = TRUE),
-            avg_temp = mean(temp, na.rm = TRUE),
-            max_temp = max(temp, na.rm = TRUE))
+  na_omit() %>%
+  summarize(min_temp = min(temp),
+            avg_temp = mean(temp),
+            max_temp = max(temp))
 # With groups
 env_data %>% 
+  na_omit() %>%
   group_by(barn, location) %>% 
-  summarize(min_temp = min(temp, na.rm = TRUE),
-            avg_temp = mean(temp, na.rm = TRUE),
-            max_temp = max(temp, na.rm = TRUE))
+  summarize(min_temp = min(temp),
+            avg_temp = mean(temp),
+            max_temp = max(temp))
 
 # Sample 2 random observations from each group and save dataframe
 set.seed(123)
@@ -146,16 +149,18 @@ sampled_env_data <- env_data %>%
 
 # Summarize sampled data
 sampled_env_data %>% 
-  summarize(min_temp = min(temp, na.rm = TRUE),
-            avg_temp = mean(temp, na.rm = TRUE),
-            max_temp = max(temp, na.rm = TRUE))
+  na_omit() %>%
+  summarize(min_temp = min(temp),
+            avg_temp = mean(temp),
+            max_temp = max(temp))
 
 # Summarize sampled data by barn and location
 sampled_env_data %>% 
+  na_omit() %>%
   group_by(barn, location) %>% 
-  summarize(min_temp = min(temp, na.rm = TRUE),
-            avg_temp = mean(temp, na.rm = TRUE),
-            max_temp = max(temp, na.rm = TRUE))
+  summarize(min_temp = min(temp),
+            avg_temp = mean(temp),
+            max_temp = max(temp))
 
 ## Your turn ----
 env_data %>% 
